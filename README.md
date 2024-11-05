@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HongYin1999
+- 👋 Hi, I’m HongYin.
 - 👀 I’m interested in the practical applications of statistics in different areas.
 - 🌱 I’m currently learning advanced statistical methods, including modeling high-dimensional censored data and conformal inference.
 - 💞️ I’m looking to collaborate on ...
